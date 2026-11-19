@@ -12,7 +12,7 @@ Navigation for the S Concourse Evolution project context package. Use these reco
 ## Start Here
 
 - [Program Context](S_Concourse_Evolution_Context_Package/00_Program_Context.html)
-- [Standards and Criteria](S_Concourse_Evolution_Context_Package/01_Standards_And_Criteria.html)
+- [Standards and Criteria](S_Concourse_Evolution_Context_Package/01_Standards_and_Criteria.html)
 - [Client Preferences](S_Concourse_Evolution_Context_Package/02_Client_Preferences.html)
 - [Lessons Learned](S_Concourse_Evolution_Context_Package/03_Lessons_Learned.html)
 - [Common Review Comments](S_Concourse_Evolution_Context_Package/04_Common_Review_Comments.html)
@@ -21,6 +21,7 @@ Navigation for the S Concourse Evolution project context package. Use these reco
 - [AI Insights](S_Concourse_Evolution_Context_Package/07_AI_Insights.html)
 - [Aircraft Operations Design Principles](S_Concourse_Evolution_Context_Package/08_Aircraft_Operations_Design_Principles.html)
 - [Decision Log](S_Concourse_Evolution_Context_Package/09_Decision_Log.html)
+- [Document Source Register](S_Concourse_Evolution_Context_Package/10_Document_Source_Register.html)
 
 ## Project Foundation
 
@@ -28,7 +29,7 @@ Navigation for the S Concourse Evolution project context package. Use these reco
 
 Program scope, participants, delivery method, reviewer responsibilities, and risk priorities.
 
-### [01 – Standards and Criteria](S_Concourse_Evolution_Context_Package/01_Standards_And_Criteria.html)
+### [01 – Standards and Criteria](S_Concourse_Evolution_Context_Package/01_Standards_and_Criteria.html)
 
 Applicable FAA advisory circulars, Port standards, Fire Department criteria, airline requirements, project criteria, interpretations, and unresolved compliance questions.
 
@@ -70,6 +71,10 @@ Operational principles for gates, aircraft parking, apron circulation, taxilanes
 
 Auditable decisions identifying the issue, alternatives, operational and capacity effects, selected decision, rationale, decision authority, date, evidence, and closure conditions.
 
+### [10 – Document Source Register](S_Concourse_Evolution_Context_Package/10_Document_Source_Register.html)
+
+Register of persistent agent knowledge sources, SharePoint document-corpus structure, drawing and specification packages, revisions, retrieval status, and review traceability.
+
 ## Repository Files
 
 ### Root
@@ -80,7 +85,7 @@ Auditable decisions identifying the issue, alternatives, operational and capacit
 ### Context Package
 
 - [00_Program_Context.md](S_Concourse_Evolution_Context_Package/00_Program_Context.html)
-- [01_Standards_And_Criteria.md](S_Concourse_Evolution_Context_Package/01_Standards_And_Criteria.html)
+- [01_Standards_and_Criteria.md](S_Concourse_Evolution_Context_Package/01_Standards_and_Criteria.html)
 - [02_Client_Preferences.md](S_Concourse_Evolution_Context_Package/02_Client_Preferences.html)
 - [03_Lessons_Learned.md](S_Concourse_Evolution_Context_Package/03_Lessons_Learned.html)
 - [04_Common_Review_Comments.md](S_Concourse_Evolution_Context_Package/04_Common_Review_Comments.html)
@@ -89,6 +94,7 @@ Auditable decisions identifying the issue, alternatives, operational and capacit
 - [07_AI_Insights.md](S_Concourse_Evolution_Context_Package/07_AI_Insights.html)
 - [08_Aircraft_Operations_Design_Principles.md](S_Concourse_Evolution_Context_Package/08_Aircraft_Operations_Design_Principles.html)
 - [09_Decision_Log.md](S_Concourse_Evolution_Context_Package/09_Decision_Log.html)
+- [10_Document_Source_Register.md](S_Concourse_Evolution_Context_Package/10_Document_Source_Register.html)
 
 ## Design Review Priorities
 
