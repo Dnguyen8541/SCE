@@ -6,27 +6,31 @@ title: Project Context
 # Program Context
 
 ## Program Information
-Program Name: S Concourse Evolution
-Owner: Port of Seattle
-Facility: Seattle-Tacoma International Airport (SEA)
-Location: SeaTac, Washington
-Delivery Method: GCCM
-Current Phase: 90% Design Complete
+
+- **Program Name:** S Concourse Evolution
+- **Owner:** Port of Seattle
+- **Facility:** Seattle-Tacoma International Airport (SEA)
+- **Location:** SeaTac, Washington
+- **Delivery Method:** GCCM
+- **Current Phase:** 90% Design Complete
 
 ## Design Team
-- AECOM (Prime, Civil, Architecture, Program Management)
-- HOK (Architecture)
-- Magnusson Klemencic Associates (Structural)
-- PAE (Electrical)
-- Aero Systems (PLBs and eGSE Charging)
-- Jacobs (Program Management)
-- Hensel Phelps (General Contractor)
+
+- AECOM: Prime consultant, civil, architecture, and program management
+- HOK: Architecture
+- Magnusson Klemencic Associates: Structural
+- PAE: Electrical
+- Aero Systems: Passenger loading bridges and eGSE charging
+- Jacobs: Program management
+- Hensel Phelps: General contractor
 
 ## Reviewer Profile
-David Nguyen
-Lead Design Engineer - Airfield Scope
 
-Responsibilities:
+**David Nguyen**  
+Lead Design Engineer, Airfield Scope
+
+### Responsibilities
+
 - Airfield design leadership
 - Aircraft operations analysis
 - Stakeholder coordination
@@ -34,12 +38,15 @@ Responsibilities:
 - QA/QC certification
 
 ## Risk Prioritization
-1. Life Safety
-2. Aircraft Operational Compatibility
-3. Regulatory Compliance
-4. Phasing Feasibility
-5. Utility Coordination
+
+Design reviews should prioritize risks in the following order:
+
+1. Life safety
+2. Aircraft operational compatibility
+3. Regulatory compliance
+4. Phasing feasibility
+5. Utility coordination
 6. Constructability
 7. Schedule
 8. Cost
-9. Drafting Quality
+9. Drafting quality
