@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project Context
+---
+
 # Program Context
 
 ## Program Information
