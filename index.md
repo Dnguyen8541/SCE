@@ -11,61 +11,65 @@ This site is the navigation index for the S Concourse Evolution project context 
 
 ## Start here
 
-- [Repository README](README.md) – Repository purpose, structure, and use.
-- [Project Context](S_Concourse_Evolution_Context_Package/00_PROJECT_CONTEXT.md) – Core program background, scope, stakeholders, and project setting.
-- [Project-Specific Context](S_Concourse_Evolution_Context_Package/05_PROJECT_SPECIFIC_CONTEXT.md) – Current S Concourse conditions, constraints, interfaces, and assumptions.
-- [Aircraft Operations Design Principles](S_Concourse_Evolution_Context_Package/08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.md) – Operational and capacity principles that should lead design decisions.
-- [Decision Log](S_Concourse_Evolution_Context_Package/09_DECISION_LOG.md) – Record of project decisions, rationale, authority, and status.
+- [Repository README](https://github.com/dnguyen8541/SCE/blob/main/README.md) – Repository purpose, structure, and use.
+- [Project Context](S_Concourse_Evolution_Context_Package/00_PROJECT_CONTEXT.html) – Core program background, scope, stakeholders, and project setting.
+- [Project-Specific Context](S_Concourse_Evolution_Context_Package/05_PROJECT_SPECIFIC_CONTEXT.html) – Current S Concourse conditions, constraints, interfaces, and assumptions.
+- [Aircraft Operations Design Principles](S_Concourse_Evolution_Context_Package/08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.html) – Operational and capacity principles that should lead design decisions.
+- [Decision Log](S_Concourse_Evolution_Context_Package/09_DECISION_LOG.html) – Record of project decisions, rationale, authority, and status.
 
 ## Project foundation
 
-### [00 – Project Context](S_Concourse_Evolution_Context_Package/00_PROJECT_CONTEXT.md)
+### [00 – Project Context](S_Concourse_Evolution_Context_Package/00_PROJECT_CONTEXT.html)
 
 Use this file for the program overview, scope boundaries, stakeholder map, existing conditions, and general project assumptions.
 
-### [01 – Standards and Criteria](S_Concourse_Evolution_Context_Package/01_STANDARDS_AND_CRITERIA.md)
+### [01 – Standards and Criteria](S_Concourse_Evolution_Context_Package/01_STANDARDS_AND_CRITERIA.html)
 
 Use this file to track applicable FAA advisory circulars, Port standards, Fire Department criteria, airline requirements, project criteria, revisions, interpretations, and unresolved compliance questions.
 
 For airport geometry, aircraft compatibility, apron, and taxilane reviews, confirm the applicable revision and project interpretation of **FAA AC 150/5300-13B, Airport Design**. For construction phasing and temporary operational conditions, confirm the applicable revision and project interpretation of **FAA AC 150/5370-2G, Operational Safety on Airports During Construction**.
 
-### [02 – Client Preferences](S_Concourse_Evolution_Context_Package/02_CLIENT_PREFERENCES.md)
+### [02 – Client Preferences](S_Concourse_Evolution_Context_Package/02_CLIENT_PREFERENCES.html)
 
 Use this file for documented Port preferences, review expectations, presentation conventions, decision protocols, and recurring coordination needs. Distinguish preferences from mandatory requirements.
 
 ## Lessons and repeatable review knowledge
 
-### [03 – Lessons Learned](S_Concourse_Evolution_Context_Package/03_LESSONS_LEARNED.md)
+### [03 – Lessons Learned](S_Concourse_Evolution_Context_Package/03_LESSONS_LEARNED.html)
 
 Use this file for applicable IAF/A6 lessons and new S Concourse lessons. Each lesson should include context, trigger, impact, recommended practice, applicability, and source evidence.
 
-### [04 – Common Review Comments](S_Concourse_Evolution_Context_Package/04_COMMON_REVIEW_COMMENTS.md)
+### [04 – Common Review Comments](S_Concourse_Evolution_Context_Package/04_COMMON_REVIEW_COMMENTS.html)
 
 Use this file for recurring comments and review checks. Comments should identify the operational, capacity, life-safety, compliance, constructability, maintainability, schedule, or cost consequence.
 
-### [07 – AI Insights](S_Concourse_Evolution_Context_Package/07_AI_INSIGHTS.md)
+### [07 – AI Insights](S_Concourse_Evolution_Context_Package/07_AI_INSIGHTS.html)
 
 Use this file for synthesized patterns, cross-file observations, unresolved questions, and proposed updates. Treat generated insights as analysis until validated against project evidence and accepted by the appropriate decision authority.
 
 ## Project review record
 
-### [05 – Project-Specific Context](S_Concourse_Evolution_Context_Package/05_PROJECT_SPECIFIC_CONTEXT.md)
+### [05 – Project-Specific Context](S_Concourse_Evolution_Context_Package/05_PROJECT_SPECIFIC_CONTEXT.html)
 
 Use this file for S Concourse-specific operational baselines, capacity metrics, stakeholder constraints, design interfaces, construction conditions, and open issues.
 
-### [06 – Review History](S_Concourse_Evolution_Context_Package/06_REVIEW%20HISTORY.md)
+### [06 – Review History](S_Concourse_Evolution_Context_Package/06_REVIEW%20HISTORY.html)
 
 Use this file for review dates, packages reviewed, milestone decisions, findings, responses, closure status, and source references.
 
 > **Filename note:** This filename contains a space. The encoded link above is GitHub Pages-compatible. Renaming the file to `06_REVIEW_HISTORY.md` is recommended for consistency and simpler future linking. If renamed, update this index in the same commit.
 
-### [08 – Aircraft Operations Design Principles](S_Concourse_Evolution_Context_Package/08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.md)
+### [08 – Aircraft Operations Design Principles](S_Concourse_Evolution_Context_Package/08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.html)
 
 Use this file to establish and preserve the operational baseline for gates, aircraft parking, apron circulation, taxilanes, passenger processing, baggage, emergency access, and construction continuity.
 
-### [09 – Decision Log](S_Concourse_Evolution_Context_Package/09_DECISION_LOG.md)
+### [09 – Decision Log](S_Concourse_Evolution_Context_Package/09_DECISION_LOG.html)
 
 Use this file as the auditable record of decisions. Each entry should identify the issue, alternatives, operational and capacity effects, decision, rationale, decision authority, date, evidence, and any conditions for closure.
+
+## Link behavior on GitHub Pages
+
+GitHub Pages/Jekyll converts repository Markdown pages from `.md` source files to `.html` published pages. The navigation links on this site therefore use `.html` destinations, while the visible inventory retains the source filenames.
 
 ## Complete Markdown inventory
 
@@ -73,21 +77,21 @@ The inventory contains **12 Markdown files**: two files at the repository root a
 
 ### Repository root
 
-1. [README.md](README.md)
-2. [index.md](index.md) – This page
+1. [README.md](https://github.com/dnguyen8541/SCE/blob/main/README.md)
+2. [index.md](./) – This page
 
 ### Context package
 
-1. [00_PROJECT_CONTEXT.md](S_Concourse_Evolution_Context_Package/00_PROJECT_CONTEXT.md)
-2. [01_STANDARDS_AND_CRITERIA.md](S_Concourse_Evolution_Context_Package/01_STANDARDS_AND_CRITERIA.md)
-3. [02_CLIENT_PREFERENCES.md](S_Concourse_Evolution_Context_Package/02_CLIENT_PREFERENCES.md)
-4. [03_LESSONS_LEARNED.md](S_Concourse_Evolution_Context_Package/03_LESSONS_LEARNED.md)
-5. [04_COMMON_REVIEW_COMMENTS.md](S_Concourse_Evolution_Context_Package/04_COMMON_REVIEW_COMMENTS.md)
-6. [05_PROJECT_SPECIFIC_CONTEXT.md](S_Concourse_Evolution_Context_Package/05_PROJECT_SPECIFIC_CONTEXT.md)
-7. [06_REVIEW HISTORY.md](S_Concourse_Evolution_Context_Package/06_REVIEW%20HISTORY.md)
-8. [07_AI_INSIGHTS.md](S_Concourse_Evolution_Context_Package/07_AI_INSIGHTS.md)
-9. [08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.md](S_Concourse_Evolution_Context_Package/08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.md)
-10. [09_DECISION_LOG.md](S_Concourse_Evolution_Context_Package/09_DECISION_LOG.md)
+1. [00_PROJECT_CONTEXT.md](S_Concourse_Evolution_Context_Package/00_PROJECT_CONTEXT.html)
+2. [01_STANDARDS_AND_CRITERIA.md](S_Concourse_Evolution_Context_Package/01_STANDARDS_AND_CRITERIA.html)
+3. [02_CLIENT_PREFERENCES.md](S_Concourse_Evolution_Context_Package/02_CLIENT_PREFERENCES.html)
+4. [03_LESSONS_LEARNED.md](S_Concourse_Evolution_Context_Package/03_LESSONS_LEARNED.html)
+5. [04_COMMON_REVIEW_COMMENTS.md](S_Concourse_Evolution_Context_Package/04_COMMON_REVIEW_COMMENTS.html)
+6. [05_PROJECT_SPECIFIC_CONTEXT.md](S_Concourse_Evolution_Context_Package/05_PROJECT_SPECIFIC_CONTEXT.html)
+7. [06_REVIEW HISTORY.md](S_Concourse_Evolution_Context_Package/06_REVIEW%20HISTORY.html)
+8. [07_AI_INSIGHTS.md](S_Concourse_Evolution_Context_Package/07_AI_INSIGHTS.html)
+9. [08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.md](S_Concourse_Evolution_Context_Package/08_AIRCRAFT_OPERATIONS_DESIGN_PRINCIPLES.html)
+10. [09_DECISION_LOG.md](S_Concourse_Evolution_Context_Package/09_DECISION_LOG.html)
 
 ## Repository quality checks
 
